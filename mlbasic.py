@@ -6,11 +6,7 @@ import threading
 import time
 import matplotlib.pyplot as plt
 
-
 iris=load_iris()
-
-
-
 
 print "The feature names are", iris.feature_names
 time.sleep(2)
